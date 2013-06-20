@@ -1,4 +1,8 @@
 lalalalalalaalal weeeee
 
+<<<<<<< HEAD
 hey hey hey saya mencoba mengubah master
 
+=======
+hey hey hey lalala apaan sih
+>>>>>>> a21adb9dd62b39f1e78a8d875ca84a6a96d1c7d7
